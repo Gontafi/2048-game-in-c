@@ -15,7 +15,7 @@ How to run it in VS Code:
 3. execute this comand in terminal: ```g++ -I include -o 2048game src/*.cpp main.cpp```
 4. execute this comand in terminal: ```.\2048game.exe```
 
-If you have done well, then your console should be like this:
+If you have done well, then your console should show this:
 
 ![image](https://user-images.githubusercontent.com/106583228/231541677-0c52df4a-f8d9-42a3-bcfb-81142c59922e.png)
 
